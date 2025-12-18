@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Achados da Shopee</title>
+  <style>
+    body{margin:0;font-family:Arial,Helvetica,sans-serif;background:#0f0f14;color:#fff}
+    header{background:#ff5a00;padding:18px;text-align:center;font-weight:800;font-size:20px}
+    .wrap{max-width:680px;margin:0 auto;padding:16px}
+    .sub{color:#cfcfe6;text-align:center;font-size:14px;line-height:1.35;margin:10px 0 16px}
+    .card{background:#151522;border:1px solid #2a2a45;border-radius:14px;padding:14px;margin-bottom:12px}
+    .card h2{margin:0 0 6px;font-size:16px}
+    .card p{margin:0 0 10px;color:#cfcfe6;font-size:13px;line-height:1.3}
+    a.btn{display:block;text-align:center;text-decoration:none;background:#ff5a00;color:#fff;
+      padding:10px;border-radius:10px;font-weight:800}
+    .aviso{color:#9a9ab6;text-align:center;font-size:11px;margin-top:14px}
+  </style>
+</head>
+<body>
+  <header>🛒 Achados da Shopee</header>
+
+  <div class="wrap">
+    <div class="sub">
+      Produtos úteis, baratos e bem avaliados.<br>
+      🔗 Alguns links são afiliados.
+    </div>
+
+    <div class="card">
+      <h2>🔥 Promoções do dia</h2>
+      <p>Cole aqui seu link principal de promoções/campanhas.</p>
+      <a class="btn" href="COLE_AQUI_SEU_LINK" target="_blank" rel="noopener">Ver promoções</a>
+    </div>
+
+    <div class="card">
+      <h2>🎧 Fone Bluetooth sem fio</h2>
+      <p>Achado com bom custo-benefício. Troque pelo seu link afiliado.</p>
+      <a class="btn" href="COLE_AQUI_SEU_LINK" target="_blank" rel="noopener">Comprar na Shopee</a>
+    </div>
+
+    <div class="card">
+      <h2>🏠 Organizador multiuso</h2>
+      <p>Ótimo para cozinha, quarto e banheiro.</p>
+      <a class="btn" href="COLE_AQUI_SEU_LINK" target="_blank" rel="noopener">Comprar na Shopee</a>
+    </div>
+
+    <div class="aviso">
+      ⚠️ Aviso: alguns links são afiliados. Você não paga nada a mais.
+    </div>
+  </div>
+</body>
+</html>
